@@ -13,7 +13,7 @@
 
 - 👊 Codewars Challenges https://www.codewars.com/users/AtillaPehlivan
 
-
+I have been working with web and mobile development since 2017, the period during which I have worked in different environments, from e-commerce and online education companies I am a self-motivated and self-taught who likes to solve problems. 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=atillapehlivan&show_icons=true" alt="atillapehlivan" />
 
