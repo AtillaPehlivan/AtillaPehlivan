@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 currently working on [RhPozitif](https://rhpozitif.com/)
 
-- 🙇🏻‍♂️ I'm currently learning ** Go **
+- 🙇🏻‍♂️ I'm currently learning **Go**
 
 - 🏙 currently living in [Eskişehir / Turkey](https://goo.gl/maps/rwvhpVpm44zPFbmm8)
 
